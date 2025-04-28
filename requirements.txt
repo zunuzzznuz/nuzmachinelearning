@@ -1,0 +1,17 @@
+pywin32
+pyyaml
+tqdm
+matplotlib
+seaborn
+requests
+PyAutoGUI
+PyGetWindow
+opencv-python
+numpy
+pandas
+ipython
+psutil
+dxcam
+onnxruntime_directml
+bettercam
+
